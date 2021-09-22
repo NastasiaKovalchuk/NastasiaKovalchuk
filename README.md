@@ -2,15 +2,15 @@
 
 I'm JavaScript developer from Russia.
 
-Skills:
-🔹 JavaScript 
-🔸 React 
-🔹 Redux 
-🔸 SASS, CSS 
-🔹 Mongo DB 
-🔸 Node.js 
-🔹 Express 
-🔸 Html 
+Skills
+🔹 JavaScript
+🔸 React
+🔹 Redux
+🔸 SASS, CSS
+🔹 Mongo DB
+🔸 Node.js
+🔹 Express
+🔸 Html
 
 👩‍💻 I’m currently learning:
 TypeScript (the first experience with TS was in project https://github.com/NastasiaKovalchuk/pals-in-Europe. This one was completed in 10 days by 3 authors)
@@ -18,5 +18,6 @@ TypeScript (the first experience with TS was in project https://github.com/Nasta
 
 Contacts
 📫 e-mail: kovalchuk0687@gmail.com
-
 🔗 telegram: https://t.me/KovalchukAnastasiia
+
+
