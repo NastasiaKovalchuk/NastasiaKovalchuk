@@ -4,11 +4,17 @@
 
 Skills!
 🔹 JavaScript
+
 🔸 React
+
 🔹 Redux
+
 🔸 SASS, CSS
+
 🔹 Mongo DB
+
 🔸 Node.js
+
 🔹 Express
 
 ✏ I’m currently learning:
