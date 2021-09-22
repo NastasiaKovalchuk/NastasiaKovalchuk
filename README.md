@@ -3,7 +3,7 @@
 👩‍💻 I'm JavaScript developer from Russia.
 
 Skills!
-[icons8-javascript-48](https://user-images.githubusercontent.com/68367464/134301913-c6e578d1-2f04-4a3b-ae26-09f369696fb2.png) JavaScript
+(https://user-images.githubusercontent.com/68367464/134301913-c6e578d1-2f04-4a3b-ae26-09f369696fb2.png) JavaScript
  React
  Redux
  SASS, CSS
