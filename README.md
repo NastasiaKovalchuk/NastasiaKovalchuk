@@ -14,10 +14,6 @@ Skills!
 👩‍💻 I’m currently learning:
 TypeScript (the first experience with TS was in project https://github.com/NastasiaKovalchuk/pals-in-Europe. This one was completed in 10 days by 3 authors)
 
-My project:
-<img width="1428" alt="Снимок экрана 2021-09-21 в 13 54 52" src="https://user-images.githubusercontent.com/68367464/134304537-0c980da5-dfae-4901-816a-59139c8712cd.png">
-
-
 
 Contacts
 📫 e-mail: kovalchuk0687@gmail.com
