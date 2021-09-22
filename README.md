@@ -2,6 +2,18 @@
 
 👩‍💻 I'm JavaScript developer from Russia.
 
+Hey! 👋 I'm Dari Komissarova
+👩‍💻 I'm JavaScript developer from Russia, Moscow.
+
+Skills
+💎 JavaScript
+🧩 React
+🎯 Redux
+🧿 SASS, CSS
+📦 Mongo DB
+🔋Node.js
+🛠 Express
+
 Skills
 💎 JavaScript
 🧩 React
