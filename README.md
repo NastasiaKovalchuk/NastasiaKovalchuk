@@ -2,21 +2,14 @@
 
 👩‍💻 I'm JavaScript developer from Russia.
 
-Skills!
+Skills!                                                                                
 🔹 JavaScript
-
 🔸 React
-
 🔹 Redux
-
 🔸 SASS, CSS
-
 🔹 Mongo DB
-
 🔸 Node.js
-
 🔹 Express
-
 🔸 Html
 
 👩‍💻 I’m currently learning:
