@@ -25,6 +25,7 @@ TypeScript (the first experience with TS was in project https://github.com/Nasta
 
 
 Contacts:
+
 📫 e-mail: kovalchuk0687@gmail.com
 
 🔗 telegram: https://t.me/KovalchukAnastasiia
