@@ -13,7 +13,8 @@ I'm JavaScript developer from Russia.
 - 🔸 Html
 
 My project:
-<img width="744" alt="Снимок экрана 2021-09-24 в 10 20 39" src="https://user-images.githubusercontent.com/68367464/134634619-4142f8eb-3eca-4b46-89e6-f01008654476.png">
+<img width="744" alt="Снимок экрана 2021-09-24 в 10 20 39" src="https://user-images.githubusercontent.com/68367464/134634791-5d67ae5e-95f3-481f-bf68-be89910c886c.png">
+
 
 
 ### 👩‍💻 I’m currently learning:
