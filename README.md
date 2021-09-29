@@ -13,7 +13,7 @@ I'm JavaScript developer from Russia.
 - 🔸 Html
 
 My project:
-1. Palls in Europe
+1. Pals in Europe
 - https://github.com/NastasiaKovalchuk/pals-in-Europe
 <img width="350" alt="Снимок экрана 2021-09-24 в 10 20 39" src="https://user-images.githubusercontent.com/68367464/134634791-5d67ae5e-95f3-481f-bf68-be89910c886c.png">
 
