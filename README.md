@@ -1,4 +1,4 @@
-### Hi! I'm Anastasiia Kovalchuk 👋
+### Hi! I'm Anastasia Kovalchuk 👋
 
 I'm JavaScript developer.
 
